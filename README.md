@@ -1,6 +1,7 @@
 # Solder Fume Extractor 💨
 
-![İmage](https://github.com/user-attachments/assets/ad970494-308e-4da6-bcf8-a6be05627a51)
+<img width="427" height="475" alt="image" src="https://github.com/user-attachments/assets/39f4caa1-4924-4f63-8bb3-99613af3b832" />
+
 
 ## 📌 About the Project
 This project is a custom-designed, 3D-printed fume extractor system aimed at removing harmful gases and smoke generated during soldering operations. The project involved electronic component selection, aerodynamic enclosure design from scratch using SolidWorks, and rapid prototyping.
